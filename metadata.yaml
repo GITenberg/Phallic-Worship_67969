@@ -1,0 +1,31 @@
+_repo: Phallic-Worship_67969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-05-02'
+identifiers:
+  gutenberg: '67969'
+language: en
+pgterms:marc904: https://archive.org/details/phallicworshipde00rocc
+pgterms:marc905: 20200918083242anon
+pgterms:marc906: '1880'
+pgterms:marc907: GB
+production_note: deaurider, Daniel Lowe and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United Kingdom :Privately printed,1880.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Phallic Worship
+url: http://www.gutenberg.org/ebooks/67969
